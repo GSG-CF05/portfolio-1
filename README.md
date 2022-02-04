@@ -1,5 +1,5 @@
 # **Mai Portfolio** 🖥️👩‍💻
-*simole portfolio displays about,  skills, educations, portfolio, and other things related to web developer Mai Elhajeen.*👩‍💻
+*simple portfolio displays about,  skills, educations, portfolio, and other things related to web developer Mai Elhajeen.*👩‍💻
 
 ## Skills Used:❤️‍🔥
 📌 HTML, HTML5
